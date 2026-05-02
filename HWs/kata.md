@@ -45,3 +45,7 @@ Conference organizer needs a management system for the conferences he runs
 * сотни докладчиков,
 * десятки сотрудников мероприятия,
 * тысячи участников.
+
+# Ссылка
+
+https://www.architecturalkatas.com/kata.html?kata=AllStuffNoCruft.json
