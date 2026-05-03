@@ -1,7 +1,7 @@
 # Отчёт к ДЗ №1
 ## 0. Архитектурное ката
 ### Tales Of A Fourth Grade
-An elementary school system comprehensive student management system\
+An elementary school system comprehensive student management system
 
 **Requirements:**
 + Track absences;
@@ -10,7 +10,7 @@ An elementary school system comprehensive student management system\
 + Be accessible from the playground;
 + Track student grades and assignments (completed and due);
 + Parent-teacher forums;
-+ Run as an SaaS system from a hosting center.\
++ Run as an SaaS system from a hosting center.
 
 **Users:**
 faculty, staff and student parents
